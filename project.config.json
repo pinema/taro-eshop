@@ -1,6 +1,6 @@
 {
 	"miniprogramRoot": "dist/",
-	"projectname": "myApp",
+	"projectname": "taro-eshop",
 	"description": "电商",
 	"appid": "touristappid",
 	"setting": {
